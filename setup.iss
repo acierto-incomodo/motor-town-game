@@ -99,7 +99,7 @@ end;
 procedure UninstallOldVersion();
 begin
   // 1. Revisar la ruta de la versión anterior específica
-  RunUninstaller(ExpandConstant('{userappdata}\StormGamesStudios\NewGameDir\Panicore'));
+  RunUninstaller(ExpandConstant('{userappdata}\StormGamesStudios\NewGameDir\MotorTown'));
   
   // 2. Revisar la ruta donde se va a instalar actualmente (por si es una reinstalación/actualización)
   RunUninstaller(ExpandConstant('{app}'));
