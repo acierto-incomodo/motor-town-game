@@ -1,6 +1,6 @@
 Cambios
 
-Launcher (v1.0.0):
+Launcher (v1.0.1):
 - NaN
 
 Juego (v1.0.0):
